@@ -2,11 +2,11 @@
 
 Developed in Python programming language with Pycharm IDE and some libraries like:
 
-NLTK
-speech_recognition
-sounddevice
-gtts
-playsound
+NLTK,
+speech_recognition,
+sounddevice,
+gtts,
+playsound,
 wavio e.t.c.
 
 This project allows users to input their message request, by speaking to the program,
